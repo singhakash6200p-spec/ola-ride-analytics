@@ -29,8 +29,8 @@ An end-to-end data analytics project analyzing **103,024+ Ola ride records** usi
 - **Auto and Prime Sedan** are the most booked vehicle types.
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard_screenshot.png)
-
+![Dashboard Screenshot 1](dashboard_screenshot_1.png)
+![Dashboard Screenshot 2](dashboard_screenshot_2.png)
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
